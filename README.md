@@ -11,7 +11,7 @@ To-do:
 - [x] Additional utility classes
 - [x] Enemy Instantiation
 - [x] Using Magic
-- [ ] Turning magic into a class
+- [x] Turning magic into a class
 - [ ] Healing player
 - [ ] Add Items
 - [ ] Implement different item types

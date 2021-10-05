@@ -12,7 +12,7 @@ To-do:
 - [x] Enemy Instantiation
 - [x] Using Magic
 - [x] Turning magic into a class
-- [ ] Healing player
+- [x] Healing player
 - [ ] Add Items
 - [ ] Implement different item types
 - [ ] HP view

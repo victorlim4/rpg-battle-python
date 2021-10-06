@@ -13,7 +13,7 @@ To-do:
 - [x] Using Magic
 - [x] Turning magic into a class
 - [x] Healing player
-- [ ] Add Items
+- [x] Add Items
 - [ ] Implement different item types
 - [ ] HP view
 - [ ] Add styles to HP and MP bars

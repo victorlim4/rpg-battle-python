@@ -15,7 +15,7 @@ To-do:
 - [x] Healing player
 - [x] Add Items
 - [x] Implement different item types
-- [ ] HP view
+- [x] HP view
 - [ ] Add styles to HP and MP bars
 - [ ] Multiple Enemies
 - [ ] Enemy artificial intelligence

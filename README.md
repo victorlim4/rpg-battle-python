@@ -14,7 +14,7 @@ To-do:
 - [x] Turning magic into a class
 - [x] Healing player
 - [x] Add Items
-- [ ] Implement different item types
+- [x] Implement different item types
 - [ ] HP view
 - [ ] Add styles to HP and MP bars
 - [ ] Multiple Enemies

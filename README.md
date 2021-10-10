@@ -17,7 +17,8 @@ To-do:
 - [x] Implement different item types
 - [x] HP view
 - [x] Multiple Players
-- [ ] Add styles to HP and MP bars
+- [x] Add styles to HP and MP bars
+- [x] Adding Functionality to HP and MP bars
 - [ ] Multiple Enemies
 - [ ] Enemy artificial intelligence
 

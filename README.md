@@ -21,6 +21,6 @@ To-do:
 - [x] Adding Functionality to HP and MP bars
 - [x] White space in HP and MP bars
 - [x] Enemy HP bar
-- [ ] Multiple Enemies
+- [x] Multiple Enemies
 - [ ] Enemy artificial intelligence
 

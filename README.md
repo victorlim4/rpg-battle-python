@@ -1,7 +1,8 @@
-# Python Terminal RPG
+# Terminal RPG Battle
 
-> Python terminal mini-game created to practice my coding skills with Python
+> Python based/terminal game created to practice my coding skills with Python
 
+Implementation of a text based/terminal battle game.
 ### ☕ Features to implement
 
 To-do:
@@ -22,5 +23,5 @@ To-do:
 - [x] White space in HP and MP bars
 - [x] Enemy HP bar
 - [x] Multiple Enemies
-- [ ] Enemy artificial intelligence
+- [x] Enemy artificial intelligence
 

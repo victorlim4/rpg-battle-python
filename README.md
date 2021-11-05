@@ -24,4 +24,5 @@ To-do:
 - [x] Enemy HP bar
 - [x] Multiple Enemies
 - [x] Enemy artificial intelligence
+- [x] Concluded 
 
